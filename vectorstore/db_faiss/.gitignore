@@ -1,0 +1,5 @@
+# Ignore environment files
+.env
+
+# Ignore FAISS index files (optional, if you don't want to upload them)
+vectorstore/db_faiss/
